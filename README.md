@@ -3,14 +3,8 @@
 Repository ini adalah repository dummy & sampe code untuk belajar CodeIgniter 3. Silahkan baca materi tentang git remote di bbagi.com.
 
 <b>Tutorial CodeIgniter 3 Bagian Pengenalan</b>
-<<<<<<< HEAD
 
 1.  <a href='http://bbagi.com/codeigniter-sebuah-framework-php-yang-cepat-dan-ringan.html' target="_blank">Apa Framework CodeIgniter 3 itu?</a>
 2.  <a href='http://bbagi.com/tutorial-code-igniter-mengapa-memilih-menggunakan-codeigniter.html' target="_blank">Feature dan Kelebihan CodeIgniter 3</a>
-    > > > > > > > 997ba6aa99cdfbdf56551794b24595452b778f9d
-=======
-   1. <a href='http://bbagi.com/codeigniter-sebuah-framework-php-yang-cepat-dan-ringan.html' target="_blank">Apa Framework CodeIgniter 3 itu?</a>  
-   2. <a href='http://bbagi.com/tutorial-code-igniter-mengapa-memilih-menggunakan-codeigniter.html' target="_blank">Feature dan Kelebihan CodeIgniter 3</a> 
->>>>>>> e7a174091b27de85f0a9aa874c0c522d5ad9852e
 
 Ingin belajar tentang pemrograman CodeIgniter 3? Silahkan kunjungi website http://bbagi.com/category/codeigniter
