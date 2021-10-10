@@ -1,0 +1,9 @@
+<?php
+	$data["dummy"]="dummy";
+	$this->load->view("demojquery/v_cjquery_head",$data);
+	$this->load->view($dview."_event",$data);
+	$this->load->view("demojquery/v_cjquery_judul",$data);
+	$this->load->view("demojquery/v_cjquery_menu",$data);
+	$this->load->view($dview,$data);
+	$this->load->view("demojquery/v_cjquery_footer",$data);
+?>
